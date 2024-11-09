@@ -1,0 +1,1 @@
+This project uses pytest and Playwright to create a suite of three automated tests designed to validate the functionality of the website www.csfd.cz. The tests include checking page title accuracy, searching for specific movie titles, and verifying navigation to the "Televize" page. 
